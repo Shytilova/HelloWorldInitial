@@ -1,1 +1,2 @@
 test text for git lesson
+Welcome to gitHub. Good luck!
